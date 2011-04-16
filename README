@@ -1,0 +1,6 @@
+Code for HW 4 of Machine Learning 4771 (http://www.cs.columbia.edu/~jebara/4771)
+
+Covers:
+- EM for Multinomials
+- PCA + Crossvalidation
+- Analytic Solution for Single Covariance Matrix
